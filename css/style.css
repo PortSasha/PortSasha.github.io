@@ -1,0 +1,21 @@
+body { 
+	background-image: url("../img/abstract.jpg");
+ }
+ .card { 
+      margin: 20px; 
+      /*background-color: #161C92;*/
+      background: rgb(141, 146, 241, 0.2);
+
+  }
+
+.navbar-brand {
+	color: ghostwhite;
+}
+button.btn.btn-link, .card-body {
+	color:  white;
+}
+.col-md-12 {
+	margin-left: 30%;
+	margin-right: 30%;
+	width: 40%;
+}
